@@ -1,14 +1,13 @@
-<h1 align="center">Hello 👋, I'm Abdelrahman Teleb</h1>
+<h1 align="center">Abdelrahman Teleb</h1>
 <h3 align="center">An aspiring Python developer from Egypt</h3>
 
-- 🔭 I’m currently working on **a Django Funding Program**  
-- 🌱 I’m learning **Fast API, AWS, and Kubernetes**  
-- 👯 I’m looking to collaborate on **Backend & Fullstack Projects**  
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/jackiee211)  
-- 💬 Ask me about **React, Django, Odoo, Material-UI, Ant Design, Linux**  
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/teleb0xcymage)  
-- 📄 Check out my experiences [here](https://www.dropbox.com/preview/Resume.pdf)  
-- ⚡ Fun Fact: **I make music too!**
+-  I’m currently working on **a Django Funding Program**  
+-  I’m learning **Fast API, AWS, and Kubernetes**  
+-  I’m looking to collaborate on **Backend & Fullstack Projects**  
+-  All of my projects are available on [GitHub](https://github.com/jackiee211)  
+-  Ask me about **React, Django, Odoo, Material-UI, Ant Design, Linux**  
+-  Reach me at [LinkedIn](https://www.linkedin.com/in/teleb0xcymage)  
+-  Fun Fact: **I make music too!**
 
 <p align="right">
   <img src="https://media.giphy.com/media/PzMHYQJnuKbenMrXu9/giphy.gif?cid=ecf05e478p6trg019hc6ggx0cz7zhs3lmi0ou7wxa4je97sx&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="I am atomic" width="150px"/>
