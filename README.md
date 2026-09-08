@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Python developer from Egypt</h3>
 
 -  I’m currently working on **a Full Stack Freelancing Platform**  
--  I’m learning **AWS, and Kubernetes**  
+-  I’m learning **AWS, and Penetration Testing**  
 -  I’m looking to collaborate on **Backend & Fullstack Projects**  
 -  All of my projects are available on [GitHub](https://github.com/jackiee211)  
 -  Ask me about **React, Django, Material-UI, Ant Design, Linux, Bash, Cyber Security**  
