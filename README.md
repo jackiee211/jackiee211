@@ -5,7 +5,7 @@
 -  I’m learning **AWS, and Penetration Testing**  
 -  I’m looking to collaborate on **Backend & Fullstack Projects**  
 -  All of my projects are available on [GitHub](https://github.com/jackiee211)  
--  Ask me about **React, Django, Material-UI, Ant Design, Linux, Bash, Cyber Security**  
+-  Ask me about **React, Django, Git, Linux, Bash, Cyber Security**  
 -  Reach me at [LinkedIn](https://www.linkedin.com/in/teleb0xcymage)  
 -  Fun Fact: **I make music too!**
 
