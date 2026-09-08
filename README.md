@@ -1,5 +1,5 @@
 <h1 align="center">Abdelrahman Teleb</h1>
-<h3 align="center">An aspiring Python developer from Egypt</h3>
+<h3 align="center">Python developer from Egypt</h3>
 
 -  I’m currently working on **a Full Stack Freelancing Platform**  
 -  I’m learning **AWS, and Penetration Testing**  
